@@ -1,0 +1,110 @@
+[
+    {
+        "nombre": "Juanes",
+        "genero": "masculino",
+        "edad": 50,
+        "estatura": 1.72,
+        "cabello": "lasio",
+        "profesion": "cantante",
+        "lugar nacimiento": "Carolina del principe"
+    } ,
+    {
+        "nombre": "Gustavo Petro",
+        "genero": "masculino",
+        "edad": 62,
+        "estatura": 1.75,
+        "cabello": "ondulado",
+        "profesion": "economista",
+        "lugar nacimiento": "Cienaga de oro"
+    } ,
+    {
+        "nombre": "Karol G",
+        "genero": "femenino",
+        "edad": 31,
+        "estatura": 1.6,
+        "cabello": "lasio",
+        "profesion": "cantante",
+        "lugar nacimiento": "Medellín"
+    } ,
+    {
+        "nombre": "James Rodriguez",
+        "genero": "masculino",
+        "edad": 31,
+        "estatura": 1.8,
+        "cabello": "lasio",
+        "profesion": "futbolista",
+        "lugar nacimiento": "Cúcuta"
+    } ,
+    {
+        "nombre": "Sofia Vergara",
+        "genero": "femenino",
+        "edad": 50,
+        "estatura": 1.7,
+        "cabello": "lasio",
+        "profesion": "actriz",
+        "lugar nacimiento": "Barranquilla"
+    } ,
+    {
+        "nombre": "Juan Gabriel Vásquez",
+        "genero": "masculino",
+        "edad": 49,
+        "estatura": 1.76,
+        "cabello": "ondulado",
+        "profesion": "escritor",
+        "lugar nacimiento": "Bogotá"
+    } ,
+    {
+        "nombre": "Adriana Ocampo",
+        "genero": "femenino",
+        "edad": 67,
+        "estatura": 1.55,
+        "cabello": "ondulado",
+        "profesion": "geóloga",
+        "lugar nacimiento": "Barranquilla"
+    } ,
+    {
+        "nombre": "Carlos Vives",
+        "genero": "masculino",
+        "edad": 61,
+        "estatura": 1.76,
+        "cabello": "crespo",
+        "profesion": "cantautor",
+        "lugar nacimiento": "Santa Marta"
+    } ,
+    {
+        "nombre": "Shakira",
+        "genero": "femenino",
+        "edad": 45,
+        "estatura": 1.57,
+        "cabello": "ondulado",
+        "profesion": "cantautora",
+        "lugar nacimiento": "Barranquilla"
+    } ,
+    {
+        "nombre": "Juan Pablo Montoya",
+        "genero": "masculino",
+        "edad": 46,
+        "estatura": 1.68,
+        "cabello": "ondulado",
+        "profesion": "piloto",
+        "lugar nacimiento": "Bogotá"
+    } ,
+    {
+        "nombre": "Nairo Quintana",
+        "genero": "masculino",
+        "edad": 32,
+        "estatura": 1.67,
+        "cabello": "crespo",
+        "profesion": "ciclista",
+        "lugar nacimiento": "Cómbita"
+    } ,
+    {
+        "nombre": "Faber Burgos",
+        "genero": "masculino",
+        "edad": 28,
+        "estatura": 1.7,
+        "cabello": "crespo",
+        "profesion": "youtuber",
+        "lugar nacimiento": "Bogotá"
+    }                                       
+]
