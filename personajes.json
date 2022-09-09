@@ -6,7 +6,8 @@
         "estatura": 1.72,
         "cabello": "lasio",
         "profesion": "cantante",
-        "lugar nacimiento": "Carolina del principe"
+        "lugar nacimiento": "Carolina del principe",
+        "imagen": "juanes.jpg"
     } ,
     {
         "nombre": "Gustavo Petro",
@@ -15,7 +16,8 @@
         "estatura": 1.75,
         "cabello": "ondulado",
         "profesion": "economista",
-        "lugar nacimiento": "Cienaga de oro"
+        "lugar nacimiento": "Cienaga de oro",
+        "imagen": "petro.jpg"
     } ,
     {
         "nombre": "Karol G",
@@ -24,7 +26,8 @@
         "estatura": 1.6,
         "cabello": "lasio",
         "profesion": "cantante",
-        "lugar nacimiento": "Medellín"
+        "lugar nacimiento": "Medellín",
+        "imagen": "karol.jpg"
     } ,
     {
         "nombre": "James Rodriguez",
@@ -33,7 +36,18 @@
         "estatura": 1.8,
         "cabello": "lasio",
         "profesion": "futbolista",
-        "lugar nacimiento": "Cúcuta"
+        "lugar nacimiento": "Cúcuta",
+        "imagen": "james.jpg"
+    } ,
+    {
+        "nombre": "Lucho Diaz",
+        "genero": "masculino",
+        "edad": 25,
+        "estatura": 1.8,
+        "cabello": "crespo",
+        "profesion": "futbolista",
+        "lugar nacimiento": "Barrancas",
+        "imagen": "lucho.jpg"
     } ,
     {
         "nombre": "Sofia Vergara",
@@ -42,7 +56,8 @@
         "estatura": 1.7,
         "cabello": "lasio",
         "profesion": "actriz",
-        "lugar nacimiento": "Barranquilla"
+        "lugar nacimiento": "Barranquilla",
+        "imagen": "sofia.jpg"
     } ,
     {
         "nombre": "Juan Gabriel Vásquez",
@@ -51,7 +66,8 @@
         "estatura": 1.76,
         "cabello": "ondulado",
         "profesion": "escritor",
-        "lugar nacimiento": "Bogotá"
+        "lugar nacimiento": "Bogotá",
+        "imagen": "gabriel.jpg"
     } ,
     {
         "nombre": "Adriana Ocampo",
@@ -60,7 +76,8 @@
         "estatura": 1.55,
         "cabello": "ondulado",
         "profesion": "geóloga",
-        "lugar nacimiento": "Barranquilla"
+        "lugar nacimiento": "Barranquilla",
+        "imagen": "adriana.jpg"
     } ,
     {
         "nombre": "Carlos Vives",
@@ -69,7 +86,8 @@
         "estatura": 1.76,
         "cabello": "crespo",
         "profesion": "cantautor",
-        "lugar nacimiento": "Santa Marta"
+        "lugar nacimiento": "Santa Marta",
+        "imagen": "carlos.jpg"
     } ,
     {
         "nombre": "Shakira",
@@ -78,7 +96,8 @@
         "estatura": 1.57,
         "cabello": "ondulado",
         "profesion": "cantautora",
-        "lugar nacimiento": "Barranquilla"
+        "lugar nacimiento": "Barranquilla",
+        "imagen": "shakira.jpg"
     } ,
     {
         "nombre": "Juan Pablo Montoya",
@@ -87,7 +106,8 @@
         "estatura": 1.68,
         "cabello": "ondulado",
         "profesion": "piloto",
-        "lugar nacimiento": "Bogotá"
+        "lugar nacimiento": "Bogotá",
+        "imagen": "montoya.jpg"
     } ,
     {
         "nombre": "Nairo Quintana",
@@ -96,7 +116,18 @@
         "estatura": 1.67,
         "cabello": "crespo",
         "profesion": "ciclista",
-        "lugar nacimiento": "Cómbita"
+        "lugar nacimiento": "Cómbita",
+        "imagen": "nairo.jpg"
+    } ,
+    {
+        "nombre": "Rigoberto Uran",
+        "genero": "masculino",
+        "edad": 35,
+        "estatura": 1.73,
+        "cabello": "ondulado",
+        "profesion": "ciclista",
+        "lugar nacimiento": "Urrao",
+        "imagen": "rigoberto.jpg"
     } ,
     {
         "nombre": "Faber Burgos",
@@ -105,6 +136,7 @@
         "estatura": 1.7,
         "cabello": "crespo",
         "profesion": "youtuber",
-        "lugar nacimiento": "Bogotá"
+        "lugar nacimiento": "Bogotá",
+        "imagen": "faber.jpg"
     }                                       
 ]

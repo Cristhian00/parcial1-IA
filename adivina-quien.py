@@ -1,5 +1,6 @@
 import json
 from random import randint
+from PIL import Image
 
 personajes = []
 with open("parcial1-IA/personajes.json", "r") as file:
@@ -18,6 +19,7 @@ def imprimir_personajes(personajes: list):
 def lista_atributos_personajes(personajes: list):
     atributos = list(personajes[0].keys())
     atributos.remove('nombre')
+    atributos.remove('imagen')
     return atributos
 
 
@@ -93,6 +95,10 @@ while comando_usuario != 'salir' and estado_juego != 'terminado':
 
             if personaje_usuario.lower() == personaje_elegido['nombre'].lower():
                 print("¡Felicitaciones! :) Haz adivinado el personaje\n")
+
+                imagen = Image.open('parcial1-IA/images/' + personaje_elegido['imagen'])
+                imagen.show()
+
             else:
                 print("¡Rayos! :( Esta vez no haz logrado adivinar el personaje. El personaje era " +
                       personaje_elegido['nombre'], '\n')
@@ -111,6 +117,9 @@ while comando_usuario != 'salir' and estado_juego != 'terminado':
         if personaje_usuario.lower() == personaje_elegido['nombre'].lower():
             print("¡Felicitaciones! :) Haz adivinado el personaje\n")
 
+            imagen = Image.open('parcial1-IA/images/' + personaje_elegido['imagen'])
+            imagen.show()
+            
         else:
             print("¡Rayos! :( Esta vez no haz logrado adivinar el personaje. El personaje era " +
                   personaje_elegido['nombre'], '\n')
