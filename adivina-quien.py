@@ -102,6 +102,8 @@ while comando_usuario != 'salir' and estado_juego != 'terminado':
             else:
                 print("¡Rayos! :( Esta vez no haz logrado adivinar el personaje. El personaje era " +
                       personaje_elegido['nombre'], '\n')
+                imagen = Image.open('parcial1-IA/images/over.jpg')
+                imagen.show()
 
         elif comando_usuario.lower() == 'salir':
             estado_juego = 'terminado'
@@ -123,3 +125,5 @@ while comando_usuario != 'salir' and estado_juego != 'terminado':
         else:
             print("¡Rayos! :( Esta vez no haz logrado adivinar el personaje. El personaje era " +
                   personaje_elegido['nombre'], '\n')
+            imagen = Image.open('parcial1-IA/images/over.jpg')
+            imagen.show()
